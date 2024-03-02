@@ -1,0 +1,74 @@
+[
+	{
+		"companyId": "1",
+		"companyName": "Romaguera-Crona",
+		"catchPhrase": "Multi-layered client-server neural-net",
+		"bs": "harness real-time e-markets"
+	},
+	{
+		"companyId": "2",
+		"companyName": "Deckow-Crist",
+		"catchPhrase": "Proactive didactic contingency",
+		"bs": "synergize scalable supply-chains"
+	},
+	{
+		
+			"companyId": "3",
+			"companyName": "Romaguera-Jacobson",
+			"catchPhrase": "Face to face bifurcated interface",
+			"bs": "e-enable strategic applications"
+		
+	},
+	{
+		
+			"companyId": "4",
+			"companyName": "Robel-Corkery",
+			"catchPhrase": "Multi-tiered zero tolerance productivity",
+			"bs": "transition cutting-edge web services"
+		
+	},
+	{
+		
+			"companyId": "5",
+			"companyName": "Keebler LLC",
+			"catchPhrase": "User-centric fault-tolerant solution",
+			"bs": "revolutionize end-to-end systems"
+		
+	},
+	{
+		
+			"companyId": "6",
+			"companyName": "Considine-Lockman",
+			"catchPhrase": "Synchronised bottom-line interface",
+			"bs": "e-enable innovative applications"
+		
+	},
+	
+	{
+			"companyId": "7",
+			"companyName": "Johns Group",
+			"catchPhrase": "Configurable multimedia task-force",
+			"bs": "generate enterprise e-tailers"
+		
+	},
+	{
+			"companyId": "8",
+			"companyName": "Abernathy Group",
+			"catchPhrase": "Implemented secondary concept",
+			"bs": "e-enable extensible e-tailers"
+		
+	},
+	{
+			"companyId": "9",
+			"companyName": "Yost and Sons",
+			"catchPhrase": "Switchable contextually-based project",
+			"bs": "aggregate real-time technologies"
+	},
+	{
+
+			"companyId": "10",
+			"companyName": "Hoeger LLC",
+			"catchPhrase": "Centralized empowering task-force",
+			"bs": "target end-to-end models"
+	}
+]

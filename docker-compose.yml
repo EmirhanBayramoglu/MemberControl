@@ -1,0 +1,40 @@
+version: '3.4'
+
+services:
+
+    database:
+            image: "mcr.microsoft.com/mssql/server:2022-latest"
+            container_name: sql_server2022
+            ports: # not actually needed, because the two services are on the same network
+              - "1433:1433" 
+            environment:
+              - ACCEPT_EULA=y
+              - SA_PASSWORD=A&VeryComplex123Password
+
+    redis:
+        image: redis:latest
+        ports:
+            - "6379:6379"
+
+    demo-rabbit:
+        image: "rabbitmq:3-management"
+        hostname: "demo-rabbit"
+        ports:
+            - "5672:5672"
+            - "15672:15672"
+        environment:
+            RABBITMQ_DEFAULT_USER: user
+            RABBITMQ_DEFAULT_PASS: password      
+
+    memberscontrolsystem:
+        image: ${DOCKER_REGISTRY-}memberscontrolsystem
+        build:
+            context: .
+            dockerfile: MembersControlSystem\Dockerfile
+        ports:
+            - "8080:80"
+        depends_on:
+            - database
+            - redis
+            - demo-rabbit
+

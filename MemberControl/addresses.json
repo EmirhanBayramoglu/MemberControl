@@ -1,0 +1,85 @@
+[
+	{
+			"addressId": "1",
+			"streetName": "Kulas Light",
+			"suiteName": "Apt. 556",
+			"cityName": "Gwenborough",
+			"zipcode": "92998-3874",
+			"geoId": "1"
+	},
+
+	{
+			"addressId": "2",
+			"streetName": "Victor Plains",
+			"suiteName": "suiteName 879",
+			"cityName": "Wisokyburgh",
+			"zipcode": "90566-7771",
+			"geoId": "2"
+	},
+	{
+			"addressId": "3",
+			"streetName": "Douglas Extension",
+			"suiteName": "suiteName 847",
+			"cityName": "McKenziehaven",
+			"zipcode": "59590-4157",
+			"geoId": "3"
+
+		},
+		{
+				"addressId": "4",
+				"streetName": "Hoeger Mall",
+				"suiteName": "Apt. 692",
+				"cityName": "South Elvis",
+				"zipcode": "53919-4257",
+				"geoId": "4"
+		},
+		{
+				"addressId": "5",
+				"streetName": "Skiles Walks",
+				"suiteName": "suiteName 351",
+				"cityName": "Roscoeview",
+				"zipcode": "33263",
+				"geoId": "5"
+		},
+		{
+				"addressId": "6",
+				"streetName": "Norberto Crossing",
+				"suiteName": "Apt. 950",
+				"cityName": "South Christy",
+				"zipcode": "23505-1337",
+				"geoId": "6"
+		},
+		{
+				"addressId": "7",
+				"streetName": "Rex Trail",
+				"suiteName": "suiteName 280",
+				"cityName": "Howemouth",
+				"zipcode": "58804-1099",
+				"geoId": "7"
+					
+		},
+		{
+				"addressId": "8",
+				"streetName": "Ellsworth Summit",
+				"suiteName": "suiteName 729",
+				"cityName": "Aliyaview",
+				"zipcode": "45169",
+				"geoId": "8"
+		},
+		{
+				"addressId": "9",
+				"streetName": "Dayna Park",
+				"suiteName": "suiteName 449",
+				"cityName": "Bartholomebury",
+				"zipcode": "76495-3109",
+				"geoId": "9",		
+		},
+		{
+				"addressId": "10",
+				"streetName": "Kattie Turnpike",
+				"suiteName": "suiteName 198",
+				"cityName": "Lebsackbury",
+				"zipcode": "31428-2261",
+				"geoId": "10"
+		}
+]
